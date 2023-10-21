@@ -1,0 +1,56 @@
+body {
+	background: #000000;
+	color: #00ccff;
+	font-family: Arial;
+}
+h1 {
+	font-family: Monotype Corsiva;
+	text-decoration: none;
+	text-align: center;
+}
+table {
+	border: 1px solid #000;
+}
+a {
+	color: #dd0000;
+	text-decoration: none;
+	font-family: Verdana;
+	font-size: 15px;
+}
+a:hover {
+	color: #00ccff;
+}
+.ganteng {
+	font-family: Arial;
+	color: #ffffff;
+}
+h3 {
+	font-family: Monotype Corsiva;
+	text-align: center;
+	text-decoration: none;
+}
+#lala {
+	background: #111111;
+}
+input{
+	background: transparent;
+	color: white;
+	border: 1px solid #fff;
+}
+textarea {
+	background: transparent;
+	color: white;
+	resize: none;
+	font-family: Verdana;
+}
+select {
+	background: transparent;
+	color: white;
+}
+option {
+	background: black;
+	color: white;
+}
+li {
+	list-style-type: none;
+}
