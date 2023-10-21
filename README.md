@@ -1,2 +1,2 @@
-# webku-obsolete
-My old website project that i should revisit someday
+# Webku
+My old website project that i should revisit some day
